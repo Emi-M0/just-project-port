@@ -1,0 +1,115 @@
+@media screen and (min-width: 480px) {
+    .header {
+        margin-top: 1.8rem;
+        padding-left: 1rem;
+        font-size: 1.3rem;
+        max-width: 60rem;
+    }
+
+    .header h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+
+
+    .wireframes {
+        font-size: 1.2rem;
+        max-width: 50rem;
+    }
+
+    .wireframes img {
+        margin-top: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .wireframes h3 {
+        text-align: center;
+        padding-right: 1rem;
+    }
+
+    .art {
+        font-size: 1.2rem;
+        max-width: 50rem;
+        margin-bottom: 5rem;
+    }
+
+    .art img {
+        margin-top: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .art h3 {
+        text-align: center;
+        padding-right: 1rem;
+    }
+
+    .animations {
+        font-size: 1.2rem;
+        max-width: 50rem;
+    }
+
+    .animations img {
+        margin-top: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .animations h3 {
+        text-align: center;
+        padding-right: 1rem;
+    }
+
+    .override {
+        font-size: 1.2rem;
+        max-width: 50rem;
+    }
+
+    .override img {
+        margin-top: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .override h3 {
+        text-align: center;
+        padding-right: 1rem;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 960px) {
+    .header {
+        margin-top: 1.8rem;
+        font-size: 1.3rem;
+        max-width: 60rem;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .header h1 {
+        margin-top: 1.5rem;
+        margin-right: 3rem;
+    }
+
+    .projects {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%
+    }
+
+    #top-body.navigation {
+        padding-right: 5rem;
+    }
+
+    video {
+        width: 50%;
+        height: auto;
+    }
+}
