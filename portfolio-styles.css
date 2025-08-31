@@ -17,12 +17,12 @@
         max-width: 50rem;
     }
 
-    .wireframes img {
+    /* .wireframes img {
         margin-top: 1rem;
         display: block;
         margin-left: auto;
         margin-right: auto;
-    }
+    } */
 
     .wireframes h3 {
         text-align: center;
@@ -35,12 +35,12 @@
         margin-bottom: 5rem;
     }
 
-    .art img {
+    /* .art img {
         margin-top: 1rem;
         display: block;
         margin-left: auto;
         margin-right: auto;
-    }
+    } */
 
     .art h3 {
         text-align: center;
@@ -52,12 +52,12 @@
         max-width: 50rem;
     }
 
-    .animations img {
+    /* .animations img {
         margin-top: 1rem;
         display: block;
         margin-left: auto;
         margin-right: auto;
-    }
+    } */
 
     .animations h3 {
         text-align: center;
@@ -69,12 +69,12 @@
         max-width: 50rem;
     }
 
-    .override img {
+    /* .override img {
         margin-top: 1rem;
         display: block;
         margin-left: auto;
         margin-right: auto;
-    }
+    } */
 
     .override h3 {
         text-align: center;
